@@ -16,6 +16,8 @@ Welcome to the workshop. Settle in, pour some tea. Let's hand write a website.
 * [MDN list of HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### CSS
+* [Dev Docs CSS Index](https://devdocs.io/css/)
+* [Text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 * [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 ### General
