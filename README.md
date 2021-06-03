@@ -43,6 +43,12 @@ Image.
 <img src="leopard.jpg" alt="An intimidating leopard.">
 ```
 \
+Anchor (link). \
+*Create links to other pages of your website, PDFs or other websites.*
+```
+<a href="second-page.html">Click here to earn more about sunflowers</a>
+```
+\
 Horizontal line.
 ```
 <hr>
