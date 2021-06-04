@@ -232,4 +232,20 @@ h1 {
 ## Uploads
 To upload your website at the end of the class [click here](https://app.ezfiledrop.com/535797/outer-space-file-upload). *Please make sure to compress the files (this will produce a .zip file which is exactly what we want).*
 
- 
+## Examples \
+
+<details open>
+	<summary>*List of examples active as of 4th June 2021*</summary>
+	<ul>
+    * https://sites.artistsspace.org/tiffany-sia-slippery-when-wet/
+    * https://alt-text-as-poetry.net/
+    * https://headgear.pw/
+    * https://madelinesnotes.cloud/
+    * https://nyanseong.neocities.org/
+    * https://screenshot.garden/
+    * https://emptyday.today/
+    * https://mayaontheinter.net/
+    * http://html.energy/
+    * http://ticks.bisagra.org/2/index.html
+  </ul>
+</details>
