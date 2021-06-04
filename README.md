@@ -235,14 +235,16 @@ To upload your website at the end of the class [click here](https://app.ezfiledr
 ## Examples
 <details>
 	<summary>List of examples active as of 4th June 2021</summary>
-    * https://sites.artistsspace.org/tiffany-sia-slippery-when-wet/
-    * https://alt-text-as-poetry.net/
-    * https://headgear.pw/
-    * https://madelinesnotes.cloud/
-    * https://nyanseong.neocities.org/
-    * https://screenshot.garden/
-    * https://emptyday.today/
-    * https://mayaontheinter.net/
-    * http://html.energy/
-    * http://ticks.bisagra.org/2/index.html
+	<ul>
+	<li>https://sites.artistsspace.org/tiffany-sia-slippery-when-wet/</li>
+     	<li>https://alt-text-as-poetry.net/</li>
+     	<li>https://headgear.pw/</li>
+     	<li>https://madelinesnotes.cloud/</li>
+     	<li>https://nyanseong.neocities.org/</li>
+     	<li>https://screenshot.garden/</li>
+     	<li>https://emptyday.today/</li>
+     	<li>https://mayaontheinter.net/</li>
+     	<li>http://html.energy/</li>
+     	<li>http://ticks.bisagra.org/2/index.html</li>
+	<ul>
 </details>
