@@ -1,6 +1,14 @@
 # My Thoughtful Website
 Welcome to the workshop. Settle in, pour some tea. Let's hand write a website.
 
+## Downloads
+* [Workshop files](https://github.com/kiahreading/my-thoughtful-website/raw/main/name-surname.zip)
+* [Text editor (for MAC)](https://download.sublimetext.com/sublime_text_build_4107_mac.zip)
+* [Text editor (for PC)](https://download.sublimetext.com/sublime_text_build_4107_x64_setup.exe)
+
+## Uploads
+[To upload your website at the end of the class click here](https://app.ezfiledrop.com/535797/outer-space-file-upload). *Please make sure to compress the files (this will produce a .zip file which is exactly what we want).*
+
 ## Example HTML Elements
 
 Headings.\
@@ -223,14 +231,6 @@ h1 {
 
 ### Hosting
 * [GitHub Pages]()
-
-## Downloads
-* [Workshop files](url)
-* [Text editor (for MAC)](https://download.sublimetext.com/sublime_text_build_4107_mac.zip)
-* [Text editor (for PC)](https://download.sublimetext.com/sublime_text_build_4107_x64_setup.exe)
-
-## Uploads
-[To upload your website at the end of the class click here](https://app.ezfiledrop.com/535797/outer-space-file-upload). *Please make sure to compress the files (this will produce a .zip file which is exactly what we want).*
 
 ## Examples
 <details>
