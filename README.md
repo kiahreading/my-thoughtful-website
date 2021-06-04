@@ -234,8 +234,9 @@ To upload your website at the end of the class [click here](https://app.ezfiledr
 
 ## Examples
 <details>
-	<summary>List of examples active as of 4th June 2021</summary>
+	<summary>List of some hand written websites (active as of 4th June 2021)</summary>
 	<ul>
+	<br>
 	<li>https://sites.artistsspace.org/tiffany-sia-slippery-when-wet/</li>
      	<li>https://alt-text-as-poetry.net/</li>
      	<li>https://headgear.pw/</li>
