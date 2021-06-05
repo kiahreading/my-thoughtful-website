@@ -1,0 +1,33 @@
+body {
+	background-color: bisque;
+	color: blue;
+}
+img {
+	width: 50
+	%;
+}
+
+h1 {
+  color: hotpink;
+  font-family: cursive;
+  font-style: unset;
+}
+div {
+ }
+img {
+  transform: rotate(25 deg);
+  border: 8px dotted red;
+}
+h2 {
+  color: saddlebrown;
+  font-family: cursive;
+  font-style: italic;
+}
+#car {
+	width: 50%;
+	margin-top: 100px;
+}
+h3 {
+  color: saddlebrown;
+  font-family: cursive;
+  font-style: italic;}
