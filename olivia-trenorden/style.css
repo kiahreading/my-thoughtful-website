@@ -1,0 +1,17 @@
+body {
+	background-color: lavender;
+	font-family: monospace;
+}
+p {
+  font-family: monospace;
+}
+
+
+
+	 div {
+  border: 4px dotted white;
+}
+
+img {
+	max-width:  300px;
+}

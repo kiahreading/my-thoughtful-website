@@ -1,0 +1,18 @@
+body {
+	background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 29%, rgba(148,187,233,1) 100%);
+	padding: 100px;
+}
+
+h1 {
+  font-style: initial;
+  font-family: sans-serif;
+  color: yellowgreen; }
+
+h2 {
+  font-style: initial;
+  font-family: sans-serif;
+  color: yellowgreen;
+}
+
+img{max-width: 500px}

@@ -1,0 +1,27 @@
+body {
+	background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(99,126,255,1) 100%, rgba(0,44,255,1) 100%);
+	font-family: monospace;
+	color: blue;
+	padding: 100px;
+}
+
+h2 {
+	font-size: 30px;
+}
+p {
+	font-size: 20px;
+	font-style: oblique;
+	padding: 50px;
+	align-content: center;
+	
+}
+
+div {
+	border: 4px groove blue;
+	flex-wrap: nowrap;
+  }
+
+  img {
+	width: 250px;
+  }
